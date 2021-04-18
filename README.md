@@ -5,4 +5,4 @@ Control your mouse using razer synapse
 Not tested for x86
 
 # Credits
-Process Hacker - https://github.com/processhacker/processhacke
+Process Hacker - https://github.com/processhacker/processhacker
